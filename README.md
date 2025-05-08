@@ -1,4 +1,3 @@
 👋 Hi, I’m Onur Tekin.
-Software Developer
-.Net
-
+Senior Software Developer - Team Lead
+.NET Core
